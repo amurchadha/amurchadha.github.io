@@ -7,7 +7,13 @@ body {
 }
 
 h1 {
-font-size: 50px;
+	font-size: 150px;
+	font-family: "Helvetica Neue",Helvetica,Arial,Utkal,sans-serif;
+	font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  font-size: 62px;
+  font-size: 3.875rem;
+  line-height: 1.06452;
 }
 
 
